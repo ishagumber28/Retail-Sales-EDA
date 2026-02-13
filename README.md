@@ -20,7 +20,6 @@ This project analyzes retail sales data to identify high-value customer segments
 - Female customers contribute 70% of total revenue
 - 26–35 age group generates highest revenue
 - Beauty category leads in overall sales
-- Top 5 states contribute Y% of total revenue
 
 ## Business Recommendations
 - Target high-value demographic segments
