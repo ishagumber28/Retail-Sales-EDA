@@ -1,5 +1,3 @@
-# Retail-Sales-EDA
-
 # Customer & Revenue Segmentation Analysis using Python
 
 ## Project Overview
